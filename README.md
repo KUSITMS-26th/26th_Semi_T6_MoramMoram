@@ -13,11 +13,12 @@
 
 # 디자인
 ## 서비스 로고
-<img width="921" alt="image" src="https://user-images.githubusercontent.com/54874529/195971927-50cfd104-10ab-416e-b7f8-71ccaad3e92b.png">
+<img width="1293" alt="image" src="https://user-images.githubusercontent.com/54874529/195971927-50cfd104-10ab-416e-b7f8-71ccaad3e92b.png">
 <img width="1293" alt="image" src="https://user-images.githubusercontent.com/54874529/195971946-7057a53e-b289-45b0-85f3-fc0bc75e018f.png">
 
 ## 디자인 무드 보드
 <img width="1293" alt="image" src="https://user-images.githubusercontent.com/54874529/195971964-97d0a257-b8f4-4e11-b0f2-cf8529fa207d.png">
+<img width="1293" alt="image" src="https://user-images.githubusercontent.com/54874529/195974733-03703721-30d0-4bb5-8f35-df8456274b63.png">
 
 
 # 모람모람
