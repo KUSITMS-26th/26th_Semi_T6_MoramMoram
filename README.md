@@ -1,6 +1,6 @@
 # 모람모람 By.육캔두잇
 
-## R&R (Role and Responsibilities)
+## R&R
   |분야|이름|포지션|
   |------|---|---|
   |기획|박신형|😻프로젝트 매니징, 서비스 기획, 와이어프레임 담당|
@@ -127,8 +127,20 @@ SOM 플리마켓 참여자 中 매칭과 정보 공유를 원하는 사용자
 ## 소프트웨어 아키텍처
 ![image](https://user-images.githubusercontent.com/54874529/195971797-4b424bc2-bf2b-4fa4-9cd4-b2944177df6a.png)
 
+## 기술 스택 선정 이유
+- React의 Virtual DOM을 통해 브라우저가 진행하는 연산의 양을 줄일 수 있어 성능을 개선할 수 있습니다.그리고 바뀐 부분만 업데이트 해주기 때문에 페이지 리랜더링 시 화면 깜박임을 줄여 사용자 경험 측면에서도 도움을 줍니다.컴포넌트 단위로 코드 작성이 가능해 생산성을 높이고 유지보수를 용이하게 합니다.Styled-components, React-map-gl 등 개발 시 도움이 되는 라이브러리를 많이 제공하고 있습니다.
+
+- github action 사용 이유: 반복적 빌드, 테스트 및 배포 작업을 처리하고, 문제가 있을 때 경고를 해주는 자동화된 파이프라인을 통해 코드 변경을 원활히 진행하고자 CI/CD를 사용합니다. 여러가지 CI/CD 툴 중 다른 툴에 비해 간단하고 여러가지 레퍼런스를 참고할 수 있는 github action을 사용합니다.
+
+- SpringBoot 사용 이유 : 
+  1. 애플리케이션 구조가 간단하고 모든것이 패키징되므로 구축이 쉽고 이식성이 우수
+  2. Spring Boot프레임워크가 애플리케이션에 필요한 기본 기능을 간단하게 제공합니다. 특히 Spring Framework 본체의 DI(Dependency Injection, 의존성 주입)의 구조가 우수
+  3. 성숙한 커뮤니티와 풍부한 생태계가 갖추어져 있습니다.
+  
+- JWT 사용 이유 : 사용자 인증에 필요한 모든 정보는 토큰 자체에 포함하기 때문에 별도의 인증 저장소가 필요 없습니다. 쿠키를 전달하지 않아도 되므로 쿠키를 사용함으로써 발생하는 취약점이 사라집니다
+
 ## 주요 기능 명세서
-![image](https://user-images.githubusercontent.com/54874529/195971826-e984753e-184e-486a-a53d-d0181ea9f3ef.png)
+![image](https://user-images.githubusercontent.com/54874529/195976018-17df53a5-3ec0-4625-aad3-b07292aaa384.png)
 [기능명세서 자세히 보기](https://docs.google.com/spreadsheets/d/1H7GrTvid9BTrZ5cFOiVNIQVe5aRWAtvM2gh5jUWeCZA/edit#gid=0)
 
 ## 👨‍👨‍👧‍👦 코드 컨벤션
@@ -141,3 +153,5 @@ SOM 플리마켓 참여자 中 매칭과 정보 공유를 원하는 사용자
 - [STYLE] : 코드 스타일 혹은 포맷 등에 관한 커밋
 - [REFACTOR] : 코드 리팩토링에 대한 커밋
 - [TEST] : 테스트 코드 수정에 대한 커밋
+
+
