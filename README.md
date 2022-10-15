@@ -125,7 +125,7 @@ SOM 플리마켓 참여자 中 매칭과 정보 공유를 원하는 사용자
 
 # 개발
 ## 소프트웨어 아키텍처
-![image](https://user-images.githubusercontent.com/54874529/195971797-4b424bc2-bf2b-4fa4-9cd4-b2944177df6a.png)
+![image](https://user-images.githubusercontent.com/54874529/195976018-17df53a5-3ec0-4625-aad3-b07292aaa384.png)
 
 ## 기술 스택 선정 이유
 - React의 Virtual DOM을 통해 브라우저가 진행하는 연산의 양을 줄일 수 있어 성능을 개선할 수 있습니다.그리고 바뀐 부분만 업데이트 해주기 때문에 페이지 리랜더링 시 화면 깜박임을 줄여 사용자 경험 측면에서도 도움을 줍니다.컴포넌트 단위로 코드 작성이 가능해 생산성을 높이고 유지보수를 용이하게 합니다.Styled-components, React-map-gl 등 개발 시 도움이 되는 라이브러리를 많이 제공하고 있습니다.
@@ -140,8 +140,8 @@ SOM 플리마켓 참여자 中 매칭과 정보 공유를 원하는 사용자
 - JWT 사용 이유 : 사용자 인증에 필요한 모든 정보는 토큰 자체에 포함하기 때문에 별도의 인증 저장소가 필요 없습니다. 쿠키를 전달하지 않아도 되므로 쿠키를 사용함으로써 발생하는 취약점이 사라집니다
 
 ## 주요 기능 명세서
-![image](https://user-images.githubusercontent.com/54874529/195976018-17df53a5-3ec0-4625-aad3-b07292aaa384.png)
-[기능명세서 자세히 보기](https://docs.google.com/spreadsheets/d/1H7GrTvid9BTrZ5cFOiVNIQVe5aRWAtvM2gh5jUWeCZA/edit#gid=0)
+![image](https://user-images.githubusercontent.com/54874529/195971826-e984753e-184e-486a-a53d-d0181ea9f3ef.png)
+[기능명세서 자세히 보기](https://user-images.githubusercontent.com/54874529/195976018-17df53a5-3ec0-4625-aad3-b07292aaa384.png)
 
 ## 👨‍👨‍👧‍👦 코드 컨벤션
 - [FEAT] : 새로운 기능에 대한 커밋
