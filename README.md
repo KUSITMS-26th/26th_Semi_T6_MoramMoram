@@ -129,3 +129,14 @@ SOM 플리마켓 참여자 中 매칭과 정보 공유를 원하는 사용자
 ![image](https://user-images.githubusercontent.com/54874529/195972545-8271d9ea-3eac-4986-b11f-c24d778d4e01.png)
 
 [기능명세서 자세히 보기](https://docs.google.com/spreadsheets/d/1H7GrTvid9BTrZ5cFOiVNIQVe5aRWAtvM2gh5jUWeCZA/edit#gid=0)
+
+## 👨‍👨‍👧‍👦 코드 컨벤션
+- [FEAT] : 새로운 기능에 대한 커밋
+- [FIX] : build 빌드 관련 파일 수정에 대한 커밋
+- [BUILD] : 빌드 관련 파일 수정에 대한 커밋
+- [CHORE] : 그 외 자잘한 수정에 대한 커밋(rlxk qusrud)
+- [CI] : CI 관련 설정 수정에 대한 커밋
+- [DOCS] : 문서 수정에 대한 커밋
+- [STYLE] : 코드 스타일 혹은 포맷 등에 관한 커밋
+- [REFACTOR] : 코드 리팩토링에 대한 커밋
+- [TEST] : 테스트 코드 수정에 대한 커밋
