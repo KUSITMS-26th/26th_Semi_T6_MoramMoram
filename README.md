@@ -125,9 +125,9 @@ SOM 플리마켓 참여자 中 매칭과 정보 공유를 원하는 사용자
 # 개발
 ## 소프트웨어 아키텍처
 ![image](https://user-images.githubusercontent.com/54874529/195971797-4b424bc2-bf2b-4fa4-9cd4-b2944177df6a.png)
-## 주요 기능 명세서
-![image](https://user-images.githubusercontent.com/54874529/195972545-8271d9ea-3eac-4986-b11f-c24d778d4e01.png)
 
+## 주요 기능 명세서
+![image](https://user-images.githubusercontent.com/54874529/195971826-e984753e-184e-486a-a53d-d0181ea9f3ef.png)
 [기능명세서 자세히 보기](https://docs.google.com/spreadsheets/d/1H7GrTvid9BTrZ5cFOiVNIQVe5aRWAtvM2gh5jUWeCZA/edit#gid=0)
 
 ## 👨‍👨‍👧‍👦 코드 컨벤션
