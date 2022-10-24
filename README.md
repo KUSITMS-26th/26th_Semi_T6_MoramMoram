@@ -141,7 +141,7 @@ SOM 플리마켓 참여자 中 매칭과 정보 공유를 원하는 사용자
 
 ## 주요 기능 명세서
 ![image](https://user-images.githubusercontent.com/54874529/195971826-e984753e-184e-486a-a53d-d0181ea9f3ef.png)
-[기능명세서 자세히 보기](https://user-images.githubusercontent.com/54874529/195976018-17df53a5-3ec0-4625-aad3-b07292aaa384.png)
+[기능명세서 자세히 보기](https://docs.google.com/spreadsheets/d/1H7GrTvid9BTrZ5cFOiVNIQVe5aRWAtvM2gh5jUWeCZA/edit?usp=sharing)
 
 ## 👨‍👨‍👧‍👦 코드 컨벤션
 - [FEAT] : 새로운 기능에 대한 커밋
